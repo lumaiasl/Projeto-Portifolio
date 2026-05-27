@@ -281,8 +281,7 @@ header nav a {
         align-items: center;
     }
 
-    .card{
-        max-width: 350px;    
+    .card{   
         width: 100%;
     }
 }
